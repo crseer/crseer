@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=default&count_private=true) | ![jwt1399](https://count.getloli.com/get/@jwt1399?theme=rule34) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=default&count_private=true) | ![crseer](https://count.getloli.com/get/@crseer?theme=rule34) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
