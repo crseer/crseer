@@ -5,3 +5,4 @@
 - 📫 How to reach me ...
 
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=default&count_private=true)
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
