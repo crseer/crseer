@@ -10,5 +10,4 @@
 - 📫How to reach me ...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=gruvbox_light&count_private=true&bg_color=DEG,C2FFD8,465EFB) ![crseer](https://count.getloli.com/get/@crseer?theme=rule34) 
-
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
