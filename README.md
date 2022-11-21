@@ -9,5 +9,5 @@
 
 - 📫How to reach me ...
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=dracula&count_private=true) | ![crseer](https://count.getloli.com/get/@crseer?theme=rule34) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=crseer&show_icons=true&theme=radical&count_private=true) | ![crseer](https://count.getloli.com/get/@crseer?theme=rule34) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
