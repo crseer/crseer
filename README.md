@@ -5,7 +5,7 @@
 
 - 🌱 Pursuing master’s degree in HUHST
 
-- ⭐️ Blog：还未弄好
+- ⭐️ Blog：no starting...
 
 - 📫 How to reach me ...
 
