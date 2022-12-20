@@ -9,7 +9,7 @@
 
 - 🤡Research  CTF & Web Security
 
-- 💪Pursuing master’s degree in HUHST
+- 💪Pursuing bechelor’s degree in HUHST
 
 - ⭐️Blog：no starting...
 
